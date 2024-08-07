@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucas Ribeiro 😁
+S## Bem-vindo(a) ao perfil do Lucas Ribeiro 😁
 
  <div>
    <a href="https://github.com/Lucas-Ribeiro-dev">
